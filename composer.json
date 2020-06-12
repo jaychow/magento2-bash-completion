@@ -3,7 +3,7 @@
     "description": "Magento2 Bash Completion Generator",
     "type": "magento2-module",
     "require": {
-        "php": "~5.6|~7.0",
+        "php": "~5.6|~7.0|~7.1|~7.2",
         "magento/framework": "^100.0"
     },
     "require-dev": {
